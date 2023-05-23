@@ -1,0 +1,13 @@
+Exception during training: [Errno 2] No such file or directory: 'model_path/trained_spacy'
+Traceback (most recent call last):
+  File "/opt/program/train", line 129, in train
+    nlp.to_disk("model_path/trained_spacy")
+  File "/usr/local/lib/python3.6/dist-packages/spacy/language.py", line 1801, in to_disk
+    util.to_disk(path, serializers, exclude)
+  File "/usr/local/lib/python3.6/dist-packages/spacy/util.py", line 1157, in to_disk
+    path.mkdir()
+  File "/usr/lib/python3.6/pathlib.py", line 1248, in mkdir
+    self._accessor.mkdir(self, mode)
+  File "/usr/lib/python3.6/pathlib.py", line 387, in wrapped
+    return strfunc(str(pathobj), *args)
+FileNotFoundError: [Errno 2] No such file or directory: 'model_path/trained_spacy'

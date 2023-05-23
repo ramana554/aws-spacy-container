@@ -1,0 +1,254 @@
+[
+  {
+    "sentence_no": 3,
+    "text": "They marched from the Houses of Parliament to a rally in Hyde Park .",
+    "id": 3,
+    "label": [
+      {
+        "start": 57,
+        "end": 66,
+        "text": "Hyde Park",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2023-05-18T21:45:03.132256Z",
+    "updated_at": "2023-05-18T21:45:04.308163Z",
+    "lead_time": 8.352
+  },
+  {
+    "sentence_no": 5,
+    "text": "The protest comes on the eve of the annual conference of Britain 's ruling Labor Party in the southern English seaside resort of Brighton .",
+    "id": 5,
+    "label": [
+      {
+        "start": 129,
+        "end": 137,
+        "text": "Brighton",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2023-05-18T21:47:30.034385Z",
+    "updated_at": "2023-05-18T21:47:30.034385Z",
+    "lead_time": 10.85
+  },
+  {
+    "sentence_no": 6,
+    "text": "The party is divided over Britain 's participation in the Iraq conflict and the continued deployment of 8,500 British troops in that country .",
+    "id": 6,
+    "label": [
+      {
+        "start": 26,
+        "end": 33,
+        "text": "Britain",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2023-05-18T21:47:44.728591Z",
+    "updated_at": "2023-05-18T21:47:44.728591Z",
+    "lead_time": 12.914
+  },
+  {
+    "sentence_no": 7,
+    "text": "The London march came ahead of anti-war protests today in other cities , including Rome , Paris , and Madrid .",
+    "id": 7,
+    "label": [
+      {
+        "start": 4,
+        "end": 10,
+        "text": "London",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "text": "Rome",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 95,
+        "text": "Paris",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2023-05-18T21:47:57.150572Z",
+    "updated_at": "2023-05-18T21:48:00.462693Z",
+    "lead_time": 4.564
+  },
+  {
+    "sentence_no": 8,
+    "text": "The International Atomic Energy Agency is to hold second day of talks in Vienna Wednesday on how to respond to Iran 's resumption of low-level uranium conversion .",
+    "id": 8,
+    "label": [
+      {
+        "start": 4,
+        "end": 38,
+        "text": "International Atomic Energy Agency",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2023-05-18T21:48:03.736162Z",
+    "updated_at": "2023-05-18T21:48:03.737158Z",
+    "lead_time": 1.446
+  },
+  {
+    "sentence_no": 12,
+    "text": "The European Union , with U.S. backing , has threatened to refer Iran to the U.N. Security Council , which could impose sanctions if it finds Tehran has violated the Nuclear Non-Proliferation treaty .",
+    "id": 12,
+    "label": [
+      {
+        "start": 142,
+        "end": 148,
+        "text": "Tehran",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2023-05-18T21:48:20.680143Z",
+    "updated_at": "2023-05-18T21:48:20.680143Z",
+    "lead_time": 11.831
+  },
+  {
+    "sentence_no": 13,
+    "text": "Iran 's new President Mahmoud Ahmadinejad said Tuesday that European incentives aimed at persuading Iran to end its nuclear fuel program are an insult to the Iranian nation .",
+    "id": 13,
+    "label": [
+      {
+        "start": 22,
+        "end": 41,
+        "text": "Mahmoud Ahmadinejad",
+        "labels": [
+          "PER"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2023-05-18T21:48:24.212977Z",
+    "updated_at": "2023-05-18T21:48:24.212977Z",
+    "lead_time": 1.712
+  },
+  {
+    "sentence_no": 15,
+    "text": "An official with the German firm Bilfinger Berger , Thomas Horbach , said the gunmen stopped the supply boat Wednesday as it sailed from Delta State to Bayelsa State to inspect an offshore oil field owned by Royal-Dutch Shell .",
+    "id": 15,
+    "label": [
+      {
+        "start": 137,
+        "end": 148,
+        "text": "Delta State",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 152,
+        "end": 165,
+        "text": "Bayelsa State",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 208,
+        "end": 225,
+        "text": "Royal-Dutch Shell",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2023-05-18T21:48:29.969706Z",
+    "updated_at": "2023-05-18T21:48:29.969706Z",
+    "lead_time": 1.253
+  },
+  {
+    "sentence_no": 19,
+    "text": "Suspected Islamist rebels have fired mortar shells at the palace used by Somalia 's interim President Abdullahi Yusuf Ahmad .",
+    "id": 19,
+    "label": [
+      {
+        "start": 102,
+        "end": 123,
+        "text": "Abdullahi Yusuf Ahmad",
+        "labels": [
+          "PER"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2023-05-18T21:44:24.913617Z",
+    "updated_at": "2023-05-18T21:44:31.233571Z",
+    "lead_time": 25.962
+  },
+  {
+    "sentence_no": 23,
+    "text": "Iraqi military officials say tanks and troops have arrived in the northern city Mosul for a new offensive against al Qaida in Iraq fighters .",
+    "id": 23,
+    "label": [
+      {
+        "start": 80,
+        "end": 85,
+        "text": "Mosul",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2023-05-18T21:48:47.091371Z",
+    "updated_at": "2023-05-18T21:48:47.091371Z",
+    "lead_time": 6.048
+  },
+  {
+    "sentence_no": 58,
+    "text": "U.S. Army officials said Wednesday that they will not renew a controversial multi-billion dollar contract with the Halliburton company to provide logistical support to U.S. troops in Iraq and elsewhere .",
+    "id": 58,
+    "label": [
+      {
+        "start": 183,
+        "end": 187,
+        "text": "Iraq",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2023-05-18T21:45:51.036996Z",
+    "updated_at": "2023-05-18T21:45:54.978561Z",
+    "lead_time": 12.954
+  }
+]
